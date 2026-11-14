@@ -1,9 +1,9 @@
-# HiCord: scHi-C Datasets/Batches Integration Using Mutual Neareast Neighbors
+# HiCord: integration of single-cell Hi-C datasets
 
 Code accompanying the manuscript:
 
-**HiCord: scHi-C Datasets/Batches Integration Using Mutual Neareast Neighbors**  
-Rui Ma, Huiling Liu, Wenxiu Ma  
+**HiCord: integration of single-cell Hi-C datasets**  
+Rui Ma, Yichen Liu, Huiling Liu, Wenxiu Ma  
 [Journal / Preprint, Year]
 
 This repository contains the Python implementation used to construct low-dimensional representations from **binned short-format chromatin contact maps**, perform dataset/batch integration, and generate the final latent embedding used in the analysis.
@@ -219,7 +219,7 @@ The package versions used in the original analysis are provided in `requirements
 
 If you use this code, please cite:
 
-> Rui Ma, Huiling Liu, Wenxiu Ma. “HiCord: scHi-C Datasets/Batches Integration Using Mutual Neareast Neighbors.” [Journal], [Year]. [DOI]
+> Rui Ma, Yichen Liu, Huiling Liu, Wenxiu Ma. “HiCord: integration of single-cell Hi-C datasets” [Journal], [Year]. [DOI]
 
 ## License
 
